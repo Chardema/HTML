@@ -70,7 +70,9 @@ header nav ul li a {
     font-weight: bold;
     margin-right: 20px;
 }
-
+header nav ul li a:hover {
+    border-bottom: 1px solid red;
+}
 ul {
     list-style: none;
 }
